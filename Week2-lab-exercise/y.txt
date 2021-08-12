@@ -1,0 +1,21 @@
+
+ void : identifier
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ n : identifier
+; 
+ if : keyword 
+( 
+1: number
+ relational operator is LT (<) 
+10: number
+)
+{
+ return : identifier 
+1: number
+;
+}
+}
