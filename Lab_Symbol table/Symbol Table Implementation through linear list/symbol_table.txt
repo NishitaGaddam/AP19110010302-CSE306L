@@ -1,0 +1,8 @@
+x
+y
+main
+a
+b
+printf
+hi
+return

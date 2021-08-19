@@ -1,0 +1,36 @@
+ 
+ int : keyword 
+ x : identifier
+,
+ y : identifier
+; 
+ int : keyword 
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ a : identifier 
+3: number
+,
+ b : identifier 
+5: number
+; 
+ if : keyword 
+(
+ a : identifier
+ relational operator is LT (>)
+ b : identifier
+)
+{
+ printf : identifier
+(
+"
+ hi : identifier
+"
+)
+}
+ return : identifier 
+0: number
+;
+}
